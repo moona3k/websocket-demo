@@ -1,0 +1,10 @@
+npm init
+npm install express nodemon
+// express - helps create a server
+// nodemon - live server update w/out the need to restart to show changes
+
+index.js (entry file; server-side)
+/public/index.html (client-side)
+install websocket for both!
+
+https://github.com/danhagg/ChatApp_Websockets
