@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
+    "express-sslify": "^1.2.0",
     "install": "^0.12.2",
     "nodemon": "^1.18.10",
     "npm": "^6.9.0",
